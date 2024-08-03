@@ -1,1 +1,5 @@
-
+@media(max-width: 767px){
+    nav.navbar.navbar-expand-lg{
+        padding-bottom: 0px;
+    }
+}
